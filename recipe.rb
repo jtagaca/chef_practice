@@ -3,6 +3,7 @@ user 'jose' do
   action :create
 end
 
+# ksdasd
 
 # installing a service
 package 'nginx' do
