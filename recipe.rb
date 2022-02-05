@@ -3,6 +3,11 @@ user 'jose' do
   action :create
 end
 
+package 'package_name' do
+  action :install
+end
+
+
 # installing a service
 package 'nginx' do
 
